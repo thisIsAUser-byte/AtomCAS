@@ -5,3 +5,4 @@ Exponent simplification: 64^3.1(6) = 524288 and 1125899906842624^1.4 = 118059162
 Reciprocation over a basis: 1 / (1 + 2^(4/17)) = 1/17 - 8/17*(2)^(1/17) - 4/17*(2)^(2/17) - 2/17*(2)^(3/17) - 1/17*(2)^(4/17) + 8/17*(2)^(5/17) + 4/17*(2)^(6/17) + 2/17*(2)^(7/17) + 1/17*(2)^(8/17) - 8/17*(2)^(9/17) - 4/17*(2)^(10/17) - 2/17*(2)^(11/17) - 1/17*(2)^(12/17) + 8/17*(2)^(13/17) + 4/17*(2)^(14/17) + 2/17*  (2)^(15/17) + 1/17*(2)^(16/17)
 RREF with exact fractions(as the code shows, is used to generate the above expression)
 Base-10 to arbitrary integer base ≥ 2(some examples include EA:16; 28,354,227,346,392:400; 100011110111111000110010110011100111101111101010010111000110111111100100100000100000000000100011101000100000000000000000000000000000000000000000000:2, etc.)
+A few basic things with statistics, like mean, median, standard deviation, etc.
