@@ -1,3 +1,12 @@
+Core features supported:
+- Custom arbitrary-precision integer arithmetic
+- Exact rational arithmetic
+- Exact radicals and fractional powers
+- Symbolic simplification of radical sums
+- Exact reciprocal/rationalization using a generated radical basis and rational linear systems
+- Parser for calculator-style input
+- Basic matrix/vector support
+
 These are some custom expressions and results that can be output by the program
 Integer addition: 194619734936439264826483618271043827414814 + 8294294719472946194946710847308712097483 = 202914029655912211021430329118352539512297
 Fraction parsing: 0.187187187187{187187} = 187/999 and 0.1{6} = 1/6
